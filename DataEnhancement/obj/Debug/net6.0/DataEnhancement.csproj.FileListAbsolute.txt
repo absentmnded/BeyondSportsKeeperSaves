@@ -1,0 +1,15 @@
+C:\Users\31629\source\DataEnhancement\DataEnhancement\bin\Debug\net6.0\DataEnhancement.exe
+C:\Users\31629\source\DataEnhancement\DataEnhancement\bin\Debug\net6.0\DataEnhancement.deps.json
+C:\Users\31629\source\DataEnhancement\DataEnhancement\bin\Debug\net6.0\DataEnhancement.runtimeconfig.json
+C:\Users\31629\source\DataEnhancement\DataEnhancement\bin\Debug\net6.0\DataEnhancement.dll
+C:\Users\31629\source\DataEnhancement\DataEnhancement\bin\Debug\net6.0\DataEnhancement.pdb
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.csproj.AssemblyReference.cache
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.AssemblyInfoInputs.cache
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.AssemblyInfo.cs
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.csproj.CoreCompileInputs.cache
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.dll
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\refint\DataEnhancement.dll
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.pdb
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\DataEnhancement.genruntimeconfig.cache
+C:\Users\31629\source\DataEnhancement\DataEnhancement\obj\Debug\net6.0\ref\DataEnhancement.dll
